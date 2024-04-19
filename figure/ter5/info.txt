@@ -1,0 +1,6 @@
+task_num = 5
+terminal_num = 5
+
+C_bud = 3000
+C_dev = 0.1
+C_bs = 10
