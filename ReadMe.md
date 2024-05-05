@@ -1,5 +1,6 @@
 # RHFedMTL
 > Resource-Aware Hierarchical Federated Multi-Task Learning
+> published in Internet of Thing Journal
 
 ## Abstract
 
